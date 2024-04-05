@@ -1,7 +1,7 @@
 # Functional and logic programming
 
 ## Description
-Functional and logic programming in python, prolog, lisp, F#. 
+Functional and logic programming in python, prolog, lisp, F#, java, C++. 
 
 ## Information about course
 **University:** Vologda State University
